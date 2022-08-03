@@ -1,0 +1,19 @@
+import pandas as pd
+import numpy as np
+from geopy.geocoders import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
+
+book = pd.read_excel('your path\\booklist_1.0.xlsx', header = 0)
+city = pd.DataFrame(book['出版地'].value_counts().index)
+writer = pd.ExcelWriter('your path\\city.xlsx')
+city.to_excel(writer)
+writer.save()
+citylist = pd.read_excel('your path\\city.xlsx', header = 0)
+geolocator = Nominatim(user_agent='shuning@xxx.com')
+geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+citylist['location'] = citylist['name'].apply(geocode)
+citylist['latitude'] = citylist['location'].apply(lambda loc: loc.latitude if loc else None)
+citylist['longitude'] = citylist['location'].apply(lambda loc: loc.longitude if loc else None)
+writer = pd.ExcelWriter('your path\\citylist.xlsx')
+citylist.to_excel(writer)
+writer.save()
