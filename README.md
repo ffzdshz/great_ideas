@@ -1,3 +1,5 @@
+Please feel free to send your suggestions and explanations for any omissions in the book list to ffzdshz@gmail.com.
+---
 # 关于数据的说明
 ## 整体思想
 本数据共收录了2001部学术名著，涵盖了九个学科：数学、物理学、化学、生命科学、哲学、经济学、心理学、政治学、社会学，目标是用书籍来表征自牛顿出版《自然哲学的数学原理》（1687年）至维特根斯坦的《哲学研究》出版（1953年）这267年间这九个学科的智力成果，并通过书籍的出版时间和出版地点数据分析学术史的时空特征。
