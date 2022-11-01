@@ -1,4 +1,4 @@
-Please feel free to send your suggestions and explanations for any omissions in the book list to ffzdshz@gmail.com.
+If you have any omissions in the book list, please feel free to send your suggestions and explanations to ffzdshz@gmail.com.
 ---
 # 关于数据的说明
 ## 整体思想
