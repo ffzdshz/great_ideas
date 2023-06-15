@@ -1,6 +1,6 @@
 If you think there is anything missing from the book list, please feel free to send your suggestions and explanations to ffzdshz@gmail.com.
 ---
-# 关于数据的说明
+# 关于数据的说明（see supplementary data of [the paper](https://academic.oup.com/pnasnexus/article/2/3/pgad060/7059125) for the English version）
 ## 整体思想
 本数据共收录了2001部学术名著，涵盖了九个学科：数学、物理学、化学、生命科学、哲学、经济学、心理学、政治学、社会学，目标是用书籍来表征自牛顿出版《自然哲学的数学原理》（1687年）至维特根斯坦的《哲学研究》出版（1953年）这267年间这九个学科的智力成果，并通过书籍的出版时间和出版地点数据分析学术史的时空特征。
 
@@ -26,7 +26,7 @@ If you think there is anything missing from the book list, please feel free to
 ### 收录标准
 为了避免收集的数据过于偏重名气很大的人，一个杰出人物我们最多选取他的六部著作。但仍然有少数人突破了这一限制，因为这些人物重要的著作实在太多，难以压缩到六部及以下。他们是：爱因斯坦（8部）、亥姆霍兹（7部）、马克思（7部）以及欧拉（7部）。
 
-关于人物最好的介绍来自于百科全书网站Encyclopedia.com，其它考察人物的网站还有维基百科、大不列颠百科全书网站Britannica.com等。
+关于人物最好的介绍来自于百科全书网站[Encyclopedia.com](https://www.encyclopedia.com/)，其它考察人物的网站还有[维基百科](https://en.wikipedia.org/wiki/Main_Page)、大不列颠百科全书网站[Britannica.com](https://www.britannica.com/)等。
 ### 书籍的确定
 下面分别简要叙述每个学科的情况，并对确定收录哪些著作时所使用的资料进行概述。
 #### 物理学
