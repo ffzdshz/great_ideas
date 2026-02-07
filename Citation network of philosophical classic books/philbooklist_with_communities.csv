@@ -1,0 +1,329 @@
+﻿year,title,author,id,community
+1605,Advancement of Learning,Francis Bacon,0,0
+1620,New Organon,Francis Bacon,1,0
+1689,A Letter Concerning Toleration,John Locke,16,0
+1689,An Essay Concerning Human Understanding,John Locke,17,0
+1693,Some Thoughts Concerning Education,John Locke,20,0
+1708,Discourse Concerning the Unchangeable Obligation of Natural Religion,Samuel Clarke,25,0
+1709,An Essay Towards a New Theory of Vision,George Berkeley,26,0
+1710,Treatise Concerning the Principles of Human Knowledge,George Berkeley,28,0
+1713,A Discourse of Free-thinking,Anthony Collins,29,0
+1713,Three Dialogues Between Hylas and Philonous,George Berkeley,30,0
+1725,An Inquiry into the Original of our Ideas of Beauty and Virtue,Francis Hutcheson,35,0
+1728,"An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense",Francis Hutcheson,38,0
+1730,"Christianity as Old as the Creation; or, the Gospel a Republication of the Religion of Nature",Matthew Tindal,39,0
+1733,Letters concerning the English nation,Voltaire,43,0
+1736,Analogy of Religion,Joseph Butler,45,0
+1749,Observations on Man,David Hartley,53,0
+1755,A System Of Moral Philosophy,Francis Hutcheson,60,0
+1759,The Theory of Moral Sentiments,Adam Smith,62,0
+1764,An Inquiry into the Human Mind on the Principles of Common Sense,Thomas Reid,64,0
+1767,An Essay on the History of Civil Society,Adam Ferguson,68,0
+1769,Institutes of Moral Philosophy,Adam Ferguson,69,0
+1779,Dialogues Concerning Natural Religion,David Hume,73,0
+1785,Essays on the Intellectual Powers of Man,Thomas Reid,78,0
+1788,Essays on the Active Powers of the Human Mind,Thomas Reid,81,0
+1831,A preliminary discourse on the study of natural philosophy,John Herschel,113,0
+1837,History of the Inductive Sciences,William Whewell,118,0
+1840,The Philosophy of the Inductive Sciences,William Whewell,120,0
+1843,A System of Logic ,John Stuart Mill,126,0
+1847,Formal Logic,Augustus De Morgan,132,0
+1847,The Mathematical Analysis of Logic,George Boole,131,0
+1852,"Discussions in Philosophy, Literature and Education",Sir William Hamilton,136,0
+1870,Elementary Lessons in Logic,William Stanley Jevons,146,0
+1877,Illustrations of the Logic of Science,Charles Sanders Peirce,156,0
+1892,The Grammar of Science,Karl Pearson,176,0
+1923,Scepticism and Animal Faith,George Santayana,241,0
+1926,Statement and Inference,John Cook Wilson,247,0
+1929,Process and Reality,Alfred North Whitehead,254,0
+1938,The Principles of Art ,R. G. Collingwood,284,0
+1940,The Foundations of Empirical Knowledge,Alfred Jules Ayer,289,0
+1945,A History of Western Philosophy,Bertrand Russell,301,0
+1951,The Rise of Scientific Philosophy,Hans Reichenbach,321,0
+1637,Discourse on the Method,René Descartes,2,1
+1641,Meditations on First Philosophy,René Descartes,3,1
+1644,Principles of Philosophy,René Descartes,4,1
+1650,Passions of the Soul,René Descartes,5,1
+1655,On the Body,Thomas Hobbes,6,1
+1663,The Principles of Cartesian Philosophy,Baruch Spinoza,8,1
+1670,Thoughts,Blaise Pascal,9,1
+1674,The Search after Truth,Nicolas Malebranche,10,1
+1677,Treatise on the Emendation of the Intellect,Baruch Spinoza,13,1
+1688,Dialogues on Metaphysics and Religion,Nicolas Malebranche,15,1
+1695,A New System of the Nature and the Communication of Substances,Gottfried Leibniz,23,1
+1695,The Reasonableness of Christianity: As Delivered in the Scriptures,John Locke,22,1
+1695,Historical and Critical Dictionary,Pierre Bayle,21,1
+1696,Christianity Not Mysterious,John Toland,24,1
+1710,Theodicy,Gottfried Leibniz,27,1
+1720,Monadology,Gottfried Leibniz,33,1
+1720,Tetradymus,John Toland,34,1
+1731,A Treatise concerning eternal and immutable Morality,Ralph Cudworth,40,1
+1745,Histoire Naturelle de l'Ame,Julien Offray de La Mettrie,48,1
+1746,"Various Conjectures on the Perception, Motion, and Generation of Ideas",David Hartley,50,1
+1746,Essay on the Origin of Human Knowledge,Étienne Bonnot de Condillac,49,1
+1747,Man a Machine,Julien Offray de La Mettrie,51,1
+1751,Encyclopedia,Denis Diderot,56,1
+1751,Preliminary Discourse to the Encyclopedia of Diderot,Jean le Rond d'Alembert,57,1
+1754,Treatise on Sensations,Étienne Bonnot de Condillac,59,1
+1758,On Mind,Claude Adrien Helvétius,61,1
+1762,Emile,Jean-Jacques Rousseau,63,1
+1764,Dictionnaire philosophique,Voltaire,65,1
+1765,New Essays on Human Understanding,Gottfried Leibniz,66,1
+1770,The System of Nature,Baron d'Holbach,70,1
+1772,Good Sense,Baron d'Holbach,71,1
+1785,Principles of Moral and Political Philosophy,William Paley,79,1
+1789,Essay to a New Theory of the Human Faculty of Representation,Karl Leonhard Reinhold,84,1
+1794,Foundations of the Science of Knowledge,Johann Gottlieb Fichte,87,1
+1796,Foundations of Natural Right,Johann Gottlieb Fichte,89,1
+1797,Ideas Concerning a Philosophy of Nature,Friedrich Wilhelm Joseph Schelling,91,1
+1798,The System of Ethics,Johann Gottlieb Fichte,92,1
+1803,Outlines of a Critique of the Doctrines of Morality to date,Friedrich Schleiermacher,99,1
+1809,Philosophical Inquiries into the Essence of Human Freedom,Friedrich Wilhelm Joseph Schelling,103,1
+1813,On the Fourfold Root of the Principle of Sufficient Reason,Arthur Schopenhauer,105,1
+1833,Lectures on the History of Philosophy,Georg Wilhelm Friedrich Hegel,114,1
+1841,The Two Fundamental Problems of Ethics,Arthur Schopenhauer,121,1
+1846,The Essence of Religion,Ludwig Feuerbach,130,1
+1848,"Nanna, or the soul-life of plants",Gustav Fechner,133,1
+1851,Parerga and Paralipomena,Arthur Schopenhauer,135,1
+1855,Force and Matter: Empiricophilosophical Studies,Ludwig Büchner,138,1
+1871,Kant's Theory of Experience,Hermann Cohen,147,1
+1878,The Fundamental Ideas of the Present,Rudolf Eucken,158,1
+1883,The Science of Mechanics,Ernst Mach,161,1
+1890,The Problem of Human Life as Viewed by the Great Thinkers,Rudolf Eucken,171,1
+1892,History of Philosophy,Wilhelm Windelband,177,1
+1900,Laughter: An Essay on the Meaning of the Comic,Henri Bergson,186,1
+1906,The Aim and Structure of Physical Theory,Pierre Duhem,201,1
+1916,Democracy and Education,John Dewey,219,1
+1925,Science and the Modern World,Alfred North Whitehead,243,1
+1936,The Great Chain of Being,Arthur Oncken Lovejoy,277,1
+1944,What Is Life?,Erwin Schrödinger,297,1
+1658,On man,Thomas Hobbes,7,2
+1719,German Metaphysics,Christian Wolff,32,2
+1725,The New Science,Giambattista Vico,36,2
+1732,Psychologia empirica,Christian Wolff,41,2
+1734,Psychologia rationalis,Christian Wolff,44,2
+1739,Metaphysica,Alexander Gottlieb Baumgarten,46,2
+1750,Aesthetica,Alexander Gottlieb Baumgarten,54,2
+1750,Discourse on the Arts and Sciences ,Jean-Jacques Rousseau,55,2
+1784,Philosophy of History of Humanity,Johann Gottfried Herder,76,2
+1795,Sketch for a Historical Picture of the Progress of the Human Mind,Marquis de Condorcet,88,2
+1799,On Religion,Friedrich Schleiermacher,93,2
+1806,Allgemeine Pädagogik,Johann Friedrich Herbart,100,2
+1808,General Practical Philosophy,Johann Friedrich Herbart,102,2
+1816,Compendium of psychology,Johann Friedrich Herbart,106,2
+1828,General Metaphysics,Johann Friedrich Herbart,112,2
+1876,Propaedentic to aesthetic,Gustav Fechner,154,2
+1883,Introduction to Human Sciences,Wilhelm Dilthey,162,2
+1892,The Problems of the Philosophy of History,Georg Simmel,174,2
+1894,The Beginnings of Art,Ernst Grosse,179,2
+1896,The Sense of Beauty,George Santayana,181,2
+1899,Kulturwissenschaft und Naturwissenschaft,Heinrich Rickert,184,2
+1902,Aesthetic as Science of Expression and General Linguistic,Benedetto Croce,191,2
+1905,Logic as the Science of the Pure Concept,Benedetto Croce,198,2
+1909,"Filosofia della pratica, economia ed etica",Benedetto Croce,208,2
+1910,The Structure of the Historical World in the Human Sciences,Wilhelm Dilthey,210,2
+1917,History: Its Theory and Practice,Benedetto Croce,221,2
+1919,Religion of Reason out of the Sources of Judaism,Hermann Cohen,225,2
+1921,The Nature of Existence ,J. M. E. McTaggart,230,2
+1923,Theorie des objektiven Geistes,Hans Freyer,238,2
+1930,The Revolt of the Masses,José Ortega y Gasset,256,2
+1932,Philosophy,Karl Jaspers,262,2
+1934,Revolt Against the Modern World,Julius Evola,270,2
+1938,The Problem of Historical Knowledge,Maurice Mandelbaum,283,2
+1938,Introduction to the Philosophy of History,Raymond Aron,287,2
+1946,The Idea of History,R. G. Collingwood,305,2
+1949,The Origin and Goal of History,Karl Jaspers,318,2
+1949,Meaning in History ,Karl Löwith,315,2
+1953,Philosophical Investigations,Ludwig Wittgenstein,326,2
+1675,Ethics,Arnold Geulincx,11,3
+1677,Ethics,Baruch Spinoza,12,3
+1767,"Phaedo, or on the Immortality of the Soul",Moses Mendelssohn,67,3
+1781,Critique of Pure Reason,Immanuel Kant,74,3
+1788,Critique of Practical Reason,Immanuel Kant,82,3
+1790,Critique of Judgment,Immanuel Kant,85,3
+1797,The Metaphysics of Morals,Immanuel Kant,90,3
+1800,System of Transcendental Idealism,Friedrich Wilhelm Joseph Schelling,95,3
+1807,The Phenomenology of Spirit,Georg Wilhelm Friedrich Hegel,101,3
+1812,Science of Logic,Georg Wilhelm Friedrich Hegel,104,3
+1817,Encyclopedia of the Philosophical Sciences,Georg Wilhelm Friedrich Hegel,107,3
+1819,The World as Will and Representation,Arthur Schopenhauer,108,3
+1821,Elements of the Philosophy of Right,Georg Wilhelm Friedrich Hegel,110,3
+1835,Lectures on Aesthetics,Georg Wilhelm Friedrich Hegel,115,3
+1836,The Will in Nature,Arthur Schopenhauer,117,3
+1841,The Essence of Christianity,Ludwig Feuerbach,123,3
+1843,Basic Principles of the Philosophy of the Future,Ludwig Feuerbach,127,3
+1844,The Ego and Its Own,Max Stirner,129,3
+1865,History of Materialism and Critique of Its Present Importance,Friedrich Lange,142,3
+1865,Lectures on Scientific Subjects,Hermann von Helmholtz,143,3
+1869,Philosophy of the Unconscious,Eduard von Hartmann,144,3
+1872,The Birth of Tragedy,Friedrich Nietzsche,148,3
+1878,"Human, All Too Human",Friedrich Nietzsche,157,3
+1883,Thus Spoke Zarathustra,Friedrich Nietzsche,160,3
+1887,On the Genealogy of Morality,Friedrich Nietzsche,167,3
+1892,A History Of Aesthetic,Bernard Bosanquet,175,3
+1892,The Spirit of Modern Philosophy,Josiah Royce,173,3
+1894,The Development of the Monist View of History,Georgi Plekhanov,180,3
+1901,The Will to Power,Friedrich Nietzsche,187,3
+1908,Fundamental Problems of Marxism,Georgi Plekhanov,207,3
+1911,The Philosophy of “As If”,Hans Vaihinger,212,3
+1916,The Theory of Mind as Pure Act,Giovanni Gentile,220,3
+1923,History and Class Consciousness,György Lukács,237,3
+1923,Marxism and Philosophy,Karl Korsch,239,3
+1926,Ethics,Nicolai Hartmann,245,3
+1932,The German Ideology,Karl Marx/Friedrich Engels,264,3
+1935,Introduction to Metaphysics,Martin Heidegger,275,3
+1935,The Work of Art in the Age of Mechanical Reproduction,Walter Benjamin,274,3
+1940,Le Matérialisme dialectique,Henri Lefebvre,290,3
+1941,Reason and Revolution,Herbert Marcuse,291,3
+1943,Inner Experience,Georges Bataille,294,3
+1947,Critique de la vie quotidienne,Henri Lefebvre,306,3
+1947,Dialectic of Enlightenment,Max Horkheimer/Theodor  W. Adorno,307,3
+1948,Sens et non-sens,Maurice Merleau-Ponty,313,3
+1950,Off the Beaten Track,Martin Heidegger,320,3
+1951,Subjekt-Objekt,Ernst Bloch,322,3
+1951,The Mystery of Being,Gabriel Marcel,323,3
+1713,Physico-Theology,William Derham,31,4
+1785,Groundwork of the Metaphysic of Morals,Immanuel Kant,80,4
+1789,An Introduction to the Principles of Morals and Legislation,Jeremy Bentham,83,4
+1841,Metaphysics,Hermann Lotze,122,4
+1859,On Liberty,John Stuart Mill,139,4
+1861,Utilitarianism,John Stuart Mill,141,4
+1874,The Methods of Ethics,Henry Sidgwick,151,4
+1876,Ethical Studies,Francis Herbert Bradley,155,4
+1883,Prolegomena to Ethics,Thomas Hill Green,163,4
+1885,The Religious Aspect of Philosophy,Josiah Royce,165,4
+1893,Appearance and Reality,Francis Herbert Bradley,178,4
+1897,The Will to Believe,William James,183,4
+1902,The Varieties of Religious Experience,William James,190,4
+1903,Humanism,Ferdinand Canning Scott Schiller,194,4
+1903,Principia Ethica,G. E. Moore,193,4
+1905,The Life of Reason,George Santayana,199,4
+1907,Pragmatism: A New Name for Some Old Ways of Thinking,William James,202,4
+1908,The Philosophy of Loyalty,Josiah Royce,205,4
+1912,The New Realism,E.B. Holt/W.T. Marvin/William Pepperell Montague/Ralph Barton Perry/W.B. Pitkin/E.G. Spaulding,214,4
+1913,The Value and Destiny of the Individual,Bernard Bosanquet,218,4
+1920,Reconstruction in philosophy,John Dewey,226,4
+1920,"Space, Time, and Deity",Samuel Alexander,227,4
+1925,Experience and Nature,John Dewey,242,4
+1925,The Ways of Knowing,William Pepperell Montague,244,4
+1926,General Theory of Value,Ralph Barton Perry,246,4
+1930,The Right and the Good,William David Ross,257,4
+1932,Art as Experience,John Dewey,265,4
+1938,Modes of Thought,Alfred North Whitehead,282,4
+1944,Ethics and Language,Charles Leslie Stevenson,298,4
+1947,Eclipse of Reason,Max Horkheimer,310,4
+1684,Rules for the Direction of the Mind,René Descartes,14,5
+1754,On the interpretation of Nature,Denis Diderot,58,5
+1800,The Vocation of Man,Johann Gottlieb Fichte,94,5
+1821,The Christian faith according to the principles of the evangelical church,Friedrich Schleiermacher,109,5
+1824,Psychology as a science,Johann Friedrich Herbart,111,5
+1843,Either/Or,Søren Kierkegaard,124,5
+1843,Fear and Trembling,Søren Kierkegaard,125,5
+1844,The Concept of Anxiety,Søren Kierkegaard,128,5
+1874,Untimely Meditations,Friedrich Nietzsche,149,5
+1874,System of Philosophy,Hermann Lotze,150,5
+1889,Time and Free Will,Henri Bergson,170,5
+1896,Matter and Memory,Henri Bergson,182,5
+1900,Logical Investigations,Edmund Husserl,185,5
+1902,The Logic of Pure Perception,Hermann Cohen,188,5
+1902,Lectures on Natural Philosophy,Wilhelm Ostwald,189,5
+1907,Creative Evolution,Henri Bergson,203,5
+1910,Philosophy as Rigorous Science,Edmund Husserl,211,5
+1913,General Introduction to a Pure Phenomenology,Edmund Husserl,215,5
+1913,Formalism in Ethics and Non-Formal Ethics of Values,Max Scheler,216,5
+1913,The Nature of Sympathy,Max Scheler,217,5
+1921,On the Eternal in Man,Max Scheler,232,5
+1921,Foundation of a Metaphysics of Knowledge,Nicolai Hartmann,229,5
+1923,Philosophy of Symbolic Forms,Ernst Cassirer,236,5
+1923,I and Thou,Martin Buber,240,5
+1927,Being and Time,Martin Heidegger,248,5
+1928,On the Phenomenology of the Consciousness of Internal Time,Edmund Husserl,251,5
+1929,Kant and the Problem of Metaphysics,Martin Heidegger,252,5
+1932,The Two Sources of Morality and Religion,Henri Bergson,266,5
+1935,A New Critique of Theoretical Thought,Herman Dooyeweerd,273,5
+1936,The Crisis of European Sciences and Transcendental Phenomenology,Edmund Husserl,276,5
+1936,The Transcendence of the Ego,Jean-Paul Sartre,279,5
+1938,The Psychoanalysis of Fire,Gaston Bachelard,285,5
+1938,The Formation of the Scientific Mind,Gaston Bachelard,286,5
+1942,The Structure of Behavior,Maurice Merleau-Ponty,293,5
+1943,Being and Nothingness,Jean-Paul Sartre,295,5
+1944,An Essay on Man,Ernst Cassirer,299,5
+1945,Phenomenology of Perception,Maurice Merleau-Ponty,302,5
+1949,The Second Sex,Simone de Beauvoir,317,5
+1728,Rational Philosophy or Logic,Christian Wolff,37,6
+1739,A Treatise of Human Nature,David Hume,47,6
+1748,An Enquiry Concerning Human Understanding,David Hume,52,6
+1783,Prolegomena to Any Future Metaphysics ,Immanuel Kant,75,6
+1837,Theory of Science,Bernard Bolzano,119,6
+1854,An Investigation of The Laws of Thought,George Boole,137,6
+1874,The Principles of Science: A Treatise on Logic and Scientific Method,William Stanley Jevons,152,6
+1879,Concept Script,Gottlob Frege,159,6
+1884,The Foundations of Arithmetic,Gottlob Frege,164,6
+1886,Contributions to the Analysis of the Sensations,Ernst Mach,166,6
+1888,Critique of Pure Experience,Richard Avenarius,168,6
+1889,System of Philosophy,Wilhelm Wundt,169,6
+1891,Der menschliche Weltbegriff,Richard Avenarius,172,6
+1903,The Principles of Mathematics,Bertrand Russell,192,6
+1903,Science and Hypothesis,Henri Poincaré,195,6
+1904,Investigations in Theory of Objects and Psychology,Alexius Meinong,196,6
+1905,Knowledge and Error,Ernst Mach,197,6
+1905,The Value of Science,Henri Poincaré,200,6
+1908,Science and Method,Henri Poincaré,206,6
+1912,The Problems of Philosophy,Bertrand Russell,213,6
+1918,A Survey of Symbolic Logic,Clarence Irving Lewis,222,6
+1918,General Theory of Knowledge,Moritz Schlick,223,6
+1921,The Analysis of Mind,Bertrand Russell,233,6
+1921,Treatise on Probability,John Maynard Keynes,234,6
+1921,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,231,6
+1922,Philosophical Studies,G. E. Moore,235,6
+1927,Philosophy of Mathematics and Natural Science,Hermann Weyl,249,6
+1928,The Logical Structure of the World,Rudolf Carnap,250,6
+1929,Mind and the World Order,Clarence Irving Lewis,255,6
+1931,"The Foundations of Mathematics, and other Logical Essays",Frank Ramsey,259,6
+1931,On Formally Undecidable Propositions of Principia Mathematica and Related Systems,Kurt Gödel,260,6
+1933,Experience and its Modes,Michael Oakeshott,268,6
+1934,The Logic of Scientific Discovery,Karl Popper,271,6
+1934,The Logical Syntax of Language,Rudolf Carnap,272,6
+1936,"Language, Truth, and Logic",Alfred Jules Ayer,278,6
+1936,Introduction to Logic and to the Methodology of the Deductive Sciences,Alfred Tarski,280,6
+1938,Experience and prediction,Hans Reichenbach,281,6
+1939,Philosophy of Physical Science,Arthur Eddington,288,6
+1944,Philosophic Foundations of Quantum Mechanics,Hans Reichenbach,296,6
+1946,An Analysis Of Knowledge And Valuation,Clarence Irving Lewis,304,6
+1947,Meaning and Necessity: a Study in Semantics and Modal Logic,Rudolf Carnap,308,6
+1948,Human Knowledge: Its Scope and Limits,Bertrand Russell,311,6
+1949,The Concept of Mind,Gilbert Ryle,316,6
+1950,Logical Foundations of Probability,Rudolf Carnap,319,6
+1952,The Nature of Historical Explanation,Patrick Gardiner,324,6
+1953,From a Logical Point of View,Willard Van Orman Quine,327,6
+1690,The Principles of the Most Ancient and Modern Philosophy,Anne Conway,18,
+1691,Metaphysics,Arnold Geulincx,19,
+1732,An Enquiry Into the Origin of Honour,Bernard Mandeville,42,
+1777,Philosophische Versuche über die menschliche Natur und ihre Entwickelung,Johannes Nikolaus Tetens,72,
+1785,"Morning Hours, or Lectures on the Existence of God",Moses Mendelssohn,77,
+1792,Principles of Moral and Political Science,Adam Ferguson,86,
+1802,Summary of nature philosophy,Lorenz Oken,96,
+1802,Relations of the Physical and the Moral in Man,Pierre Jean Georges Cabanis,98,
+1802,Natural Theology,William Paley,97,
+1836,Nature,Ralph Waldo Emerson,116,
+1849,The Sickness Unto Death,Søren Kierkegaard,134,
+1861,Education,Herbert Spencer,140,
+1869,La science de la morale,Charles Renouvier,145,
+1876,The Philosophy of Redemption,Philipp Mainländer,153,
+1908,Personalism,Borden Parker Bowne,204,
+1910,Soul and Form,György Lukács,209,
+1918,Spirit of Utopia,Ernst Bloch,224,
+1920,Art and Scholasticism,Jacques Maritain,228,
+1929,The Aims of Education and Other Essays ,Alfred North Whitehead,253,
+1930,Problems of Ethics,Moritz Schlick,258,
+1931,Empiricism and Sociology,Otto Neurath,261,
+1932,The Philosophy of the Present,George Herbert Mead,263,
+1932,The Degrees of Knowledge,Jacques Maritain,267,
+1933,The Concept of Truth in Formalized Languages,Alfred Tarski,269,
+1942,The Myth of Sisyphus,Albert Camus,292,
+1945,The Perennial Philosophy,Aldous Huxley,300,
+1946,Genesis and Structure of Society,Giovanni Gentile,303,
+1947,Elements of Symbolic Logic,Hans Reichenbach,309,
+1948,The Transcendent Unity of Religions,Frithjof Schuon,312,
+1948,Philosophy of Nature,Moritz Schlick,314,
+1953,The Philosophy of Science: An Introduction,Stephen Toulmin,325,
